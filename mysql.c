@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 
-main()
+int main()
 {
-	
-}
+	printf("mysql.c")
 }
